@@ -1,0 +1,22 @@
+[
+  {
+    "name": "cancel",
+    "description": "Cancel current Small Talk"
+  },
+  {
+    "name": "smalltalk",
+    "description": "Start a Small Talk with the bot"
+  },
+  {
+    "name": "name",
+    "description": "How should the bot call you?",
+    "options": [
+      {
+        "type": 3,
+        "name": "name",
+        "description": "Name",
+        "required": true
+      }
+    ]
+  }
+]
