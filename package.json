@@ -9,7 +9,7 @@
   "author": "gXLg",
   "license": "MIT",
   "dependencies": {
-    "nullcord": "^3.3.1",
+    "nullcord": "^3.3.2",
     "openai": "^4.85.1"
   }
 }
